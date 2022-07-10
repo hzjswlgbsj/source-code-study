@@ -1,3 +1,5 @@
+> 这是对原文英文文档的翻译。
+
 ## 介绍
 CAC（Command And Conquer）是一个用于构建 CLI 应用程序的 JavaScript 库
 
