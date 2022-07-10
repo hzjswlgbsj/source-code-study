@@ -225,3 +225,7 @@ interface ParsedArgv {
 
 ![](https://lib.sixtyden.com/CAC%E6%8B%93%E6%89%91%E4%BE%9D%E8%B5%96%E5%85%B3%E7%B3%BB.png)
 
+
+以及 CAC 的 [源码流程图](https://www.processon.com/view/link/62caa78b0e3e7451a621c082)，这里仅仅以上面的示例代码为例，主要是理解 option 和 parse 流程.
+
+![](https://lib.sixtyden.com/CAC%E6%BA%90%E7%A0%81%E6%B5%81%E7%A8%8B%E5%9B%BE.png)
