@@ -399,8 +399,8 @@ CAC 与 Commander.js 非常相似，而后者不支持 DOT 嵌套选项，即类
 [状态良好](https://github.com/cacjs/cac#project-stats)
 
 ### 如何贡献
-1. Fork it!
-2. Create your feature branch: `git checkout -b my-new-feature`
-3. Commit your changes: `git commit -am 'Add some feature'`
-4. Push to the branch: `git push origin my-new-feature`
-5. Submit a pull request :D
+1. Fork 仓库代码!
+2. 创建你的分支: `git checkout -b my-new-feature`
+3. 提交你的修改: `git commit -am 'Add some feature'`
+4. Push 代码到你的远程分支: `git push origin my-new-feature`
+5. 提交一个 pull request :D
