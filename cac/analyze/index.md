@@ -229,3 +229,9 @@ interface ParsedArgv {
 以及 CAC 的 [源码流程图](https://www.processon.com/view/link/62caa78b0e3e7451a621c082)，这里仅仅以上面的示例代码为例，主要是理解 option 和 parse 流程.
 
 ![](https://lib.sixtyden.com/CAC%E6%BA%90%E7%A0%81%E6%B5%81%E7%A8%8B%E5%9B%BE.png)
+
+## 总结
+- 需要实现链式调用在每个函数中返回 `this` 是最基本的
+- 命令行工具需要依赖 Node 环境，Deno 可以做一个兼容
+- 如果要做到代码灵活性够高就必须要做到不能写死代码，比如 CAC 源码中的 `outputHelp` 函数将 console 写死了，用户不能再自己做输出的动作了
+- 写单元测试是很重要的
