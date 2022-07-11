@@ -19,5 +19,8 @@
 └── usage                 - 根据 Usage 过一遍功能
 ```
 
+## 已读
+- [CAC](https://github.com/cacjs/cac/blob/master/README.md)   - **C**ommand **A**nd **C**onquer 是一个用于构建 CLI 应用程序的JavaScript 库。
+
 ## 心路
 我也是刚开始阅读源码，很多东西都是摸着石头过河，如有大佬降临，请务必指点迷津。
